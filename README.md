@@ -10,9 +10,9 @@ Following prior work [Qian et al., 2023](https://dl.acm.org/doi/10.1145/3543507.
  
 
 # Required Packages
-> - Python 3.7+
-> - Keras 2.3.1
+> - Python 3.8+
+> - Pytorch 1.10.0
 > - numpy 1.19.5
 > - scikit-learn 1.3.0
-> - tensorflow 1.15.0
+> - Cuda 11.3
 
