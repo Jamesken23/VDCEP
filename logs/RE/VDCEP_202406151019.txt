@@ -1,4 +1,0 @@
-[2024-06-15 10:19:50,284][main.py][line:72][INFO] We select VDCEP model, and use RE smart contract vulnerability.
-[2024-06-15 10:20:10,391][main.py][line:33][INFO] Original shape information: labeled train data is (160, 8000), valid data is (20, 8000), test data is (20, 8000)
-[2024-06-15 10:20:10,435][main.py][line:41][INFO] Original shape information: labeled train data is (232, 8000), valid data is (26, 8000), test data is (26, 8000)
-[2024-06-15 10:20:10,441][vdcep_trainer.py][line:120][INFO] ---------------------------- Epochs: 0 ----------------------------
