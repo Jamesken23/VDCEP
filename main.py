@@ -9,8 +9,8 @@ from Datasets.load_data import load_train_valid_test_data
 from utils.config import create_parser
 import Network.vdcep_trainer as train_sl
 
-# device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
-device = torch.device("cpu")
+device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
+# device = torch.device("cpu")
 args = create_parser()
 
 
