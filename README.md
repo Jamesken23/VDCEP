@@ -20,3 +20,6 @@ Following prior work [Qian et al., 2023](https://dl.acm.org/doi/10.1145/3543507.
 You can run the VDCEP model by: "python main.py"
 
 If you want to get the feature weights for each execution path, you can check out line 119 (i.e., path_weights) of code in "Network/vdcep_model.py".
+
+# Tools
+For a smart contract source code, you can use this tool [SourceGraphExtractor](https://github.com/Messi-Q/SourceGraphExtractor) to generate a code structure graph.
