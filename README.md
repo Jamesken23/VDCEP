@@ -23,3 +23,8 @@ If you want to get the feature weights for each execution path, you can check ou
 
 # Tools
 For a smart contract source code, you can use this tool [SourceGraphExtractor](https://github.com/Messi-Q/SourceGraphExtractor) to generate a code structure graph.
+
+If you want to learn more about how to deconstruct a control flow graph into a code execution path, you can refer to this work [2023 TSE EPVD](https://ieeexplore.ieee.org/document/10153647).
+
+# Reference
+This work has been accepted by the journal of Information and Software Technology (IST). 
