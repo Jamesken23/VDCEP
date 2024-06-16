@@ -29,4 +29,12 @@ If you want to learn more about how to deconstruct a control flow graph into a c
 Following prior works [AME](https://www.ijcai.org/proceedings/2021/379) and [CGE](https://ieeexplore.ieee.org/abstract/document/9477066), we conclude vulnerability-related code statements for four types of smart contract vulnerabilities as heuristic rules.
 
 # Reference
-This work has been accepted by the journal of Information and Software Technology (IST). 
+This work has been accepted by the journal of Information and Software Technology (IST). You can cite this paper by:
+> @article{CHENG2024107517,  
+>  &nbsp; &nbsp; &nbsp; title={A vulnerability detection framework by focusing on critical execution paths},  
+>  &nbsp; &nbsp; &nbsp; author={Cheng, Jianxin and Chen, Yizhou and Cao, Yongzhi and Wang, Hanpin},  
+>  &nbsp; &nbsp; &nbsp; journal={Information and Software Technology},  
+>  &nbsp; &nbsp; &nbsp; pages={107517},  
+>  &nbsp; &nbsp; &nbsp; year={2024},  
+>  &nbsp; &nbsp; &nbsp; publisher={Elsevier}  
+> }
